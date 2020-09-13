@@ -1,0 +1,6 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\models\DatumClass.class
+com\example\restservice\repository\RepositoryDatumov.class
+com\example\restservice\models\Datum.class
+com\example\restservice\controller\Controller.class
+com\example\restservice\models\Sporocilo.class
